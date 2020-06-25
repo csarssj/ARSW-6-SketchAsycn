@@ -1,4 +1,4 @@
-# Sketch Asycn Multiuser
+# Sketch Async Multiuser
 ## Manual de usuario
 
 Si se deseea hacer uso del programa lo primero que debe realizarse el clonar el repositorio almacenado en Github a través del siguiente comando:
@@ -39,7 +39,9 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 
 ## Tutorial REACT 
 
-* [DOCUMENTO](https://github.com/csarssj)
+Documento donde se encuentra el tutorial de React.js
+
+* [DOCUMENTO](https://github.com/csarssj/ARSW-6-SketchAsync/blob/master/TUTORIAL%20REACT.pdf)
 
 ## Construido en
 
